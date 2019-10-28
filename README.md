@@ -3,8 +3,8 @@
  The goal of this project is to build a web application with a little less means.
  
  ## Technologies Used:
- ◦ [Server] PHP.
- ◦ [Client] HTML - CSS - JavaScript.
+ ◦ [Server] PHP - Mysql - Docker.
+ ◦ [Client] HTML - CSS - JavaScript - Ajax.
  
  ## Frameworks used:
  ◦ Bootstrap 4.
@@ -14,5 +14,7 @@
  https://github.com/sprintcube/docker-compose-lamp
  
  ## Installation
- Clone this repository on your local computer and switch to branch `7.1.x`. Run the `docker-compose up -d`.
+ Clone this repository on your local computer and Run the `docker-compose up -d`.
+ You can access website by visiting `http://localhost/`.
+  Register and have fun !!
  
