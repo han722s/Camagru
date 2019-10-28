@@ -15,6 +15,6 @@
  
  ## Installation
  Clone this repository on your local computer and Run the `docker-compose up -d`.
- You can access website by visiting `http://localhost/`.
+ You can access website by visiting `http://localhost/users/register`.
   Register and have fun !!
  
